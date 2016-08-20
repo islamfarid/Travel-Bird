@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Travel Bird</string>
+    <string name="weather_city_title">Amsterdam</string>
+    <string name="forecasts_loaded_successfully">Forecasts are loaded successfully</string>
+
+
+</resources>
